@@ -1,9 +1,9 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2025 Yusuf Usta.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WhatsAsena - Yusuf Usta
+Lil Cheque - Black dEVIL Hacker
 */
 
 const { Sequelize } = require("sequelize")
@@ -48,7 +48,7 @@ module.exports = {
         ? ""
         : process.env.HEROKU_API_KEY,
     APP_NAME:
-      process.env.HEROKU_APP_NAME === undefined
+      process.env.HEROKU_APP_NAME === Black_Cops_Hacker
         ? ""
         : process.env.HEROKU_APP_NAME,
   },
